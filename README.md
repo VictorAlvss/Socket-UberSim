@@ -5,7 +5,7 @@
 ![Rede](https://img.shields.io/badge/Rede-Sockets%20TCP-orange.svg)
 ![Multithreading](https://img.shields.io/badge/Multithreading-Task%20%26%20ConcurrentDictionary-blueviolet.svg)
 
-`SocketRide` é um projeto acadêmico que simula a arquitetura de back-end de um aplicativo de corridas (como Uber), construído inteiramente em C# e rodando no console. O desafio central foi criar um sistema cliente-servidor do zero, usando **Sockets TCP de baixo nível** em vez de APIs web prontas (como REST ou SignalR).
+Projeto acadêmico que simula a arquitetura de back-end de um aplicativo de corridas (como Uber), construído inteiramente em C# e rodando no console. O desafio central foi criar um sistema cliente-servidor do zero, usando **Sockets TCP de baixo nível** em vez de APIs web prontas (como REST ou SignalR).
 
 O foco do projeto é demonstrar os fundamentos de **programação de rede**, **multithreading** e **gerenciamento de estado seguro** (thread-safety).
 
